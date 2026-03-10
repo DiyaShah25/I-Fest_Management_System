@@ -120,3 +120,5 @@ The `backend/.env` file is **not committed** to this repository for security. Yo
 ## 👩‍💻 Author
 
 **Diya Shah** — Semester 1 DBMS Project
+
+**Mahi Kansara** — Semester 1 DBMS Project
